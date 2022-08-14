@@ -1,1 +1,1 @@
-## Template for google cloud apps
+# Template for google cloud apps
